@@ -1,7 +1,7 @@
 {
   "name": "profo-ia_iga",
   "version": "1.0.0",
-  "description": "",
+  "description": "MyPortfolioByJsBst",
   "main": "script.js",
   "dependencies": {
     "aos": "^2.3.4",
@@ -12,5 +12,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RUFOS-od/MyPortfolioByJsBst.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RUFOS-od/MyPortfolioByJsBst/issues"
+  },
+  "homepage": "https://github.com/RUFOS-od/MyPortfolioByJsBst#readme"
 }
